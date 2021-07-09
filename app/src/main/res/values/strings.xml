@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TabPagerDemo</string>
+    <string name="first_tab">First Tab</string>
+    <string name="second_tab">Second Tab</string>
+    <string name="third_tab">Third Tab</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="firstfragment">First Fragment</string>
+    <string name="sec_frag">Second Fragment</string>
+    <string name="third_frag">Third Fragment</string>
+</resources>
